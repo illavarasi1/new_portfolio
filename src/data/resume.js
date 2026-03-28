@@ -209,7 +209,7 @@ export const data = {
       title: "Portfolio Website",
       desc: "A responsive portfolio website showcasing my skills, projects, and experience.",
       stack: ["React", "JavaScript", "Tailwind CSS"],
-      github: "https://github.com/illavarasi1/portfolio",
+      github: "https://github.com/illavarasi1/new_portfolio",
       vercel: "https://new-portfolio-beta-rosy.vercel.app/",
     },
   ],
